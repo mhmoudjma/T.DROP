@@ -11,7 +11,7 @@ This tool helps you easily move payloads, logs, or any data between the Kali env
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/mhmoud-jma/T.DROP.git
+git clone https://github.com/mhmoudjma/T.DROP.git
 ```
 
 ### 2. Change directory to the project folder
